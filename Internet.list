@@ -145,7 +145,6 @@ payload:
   - DOMAIN-SUFFIX,linode.com
   - DOMAIN-SUFFIX,lithium.com
   - DOMAIN-SUFFIX,littlehj.com
-  - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN-SUFFIX,llnwd.net
@@ -178,7 +177,6 @@ payload:
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,orkut.com
   - DOMAIN-SUFFIX,osxdaily.com
-  - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,ow.ly
   - DOMAIN-SUFFIX,paddleapi.com
   - DOMAIN-SUFFIX,parallels.com
@@ -265,7 +263,6 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,wire.com
   - DOMAIN-SUFFIX,wordpress.com
   - DOMAIN-SUFFIX,workflowy.com

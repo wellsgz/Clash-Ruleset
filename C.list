@@ -10,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,microsoftonline.com
-  - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,windows.net
