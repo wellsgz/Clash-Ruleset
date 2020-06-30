@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,kb.tetr.at
   - DOMAIN-SUFFIX,concursolutions.com
   - DOMAIN-SUFFIX,salesforce.com
+  - DOMAIN-SUFFIX,force.com
   - IP-CIDR,10.0.0.0/8
   - IP-CIDR,172.16.0.0/12
   - IP-CIDR,192.168.9.0/24
