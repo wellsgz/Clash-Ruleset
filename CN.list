@@ -1,4 +1,4 @@
-payload:
+payload:  
   - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-SUFFIX,126.com
