@@ -1,2 +1,2 @@
 payload:
-  - IP-CIDR,192.168.128.0/17,no-resolv
+  - IP-CIDR,192.168.128.0/17,,no-resolve
