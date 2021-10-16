@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,concursolutions.com
   - DOMAIN-SUFFIX,salesforce.com
   - DOMAIN-SUFFIX,force.com
+  - DOMAIN-SUFFIX,duosecurity.com
   - IP-CIDR,10.0.0.0/8,no-resolv
   - IP-CIDR,172.16.0.0/12,no-resolve
   - IP-CIDR,192.168.9.0/24,no-resolve
