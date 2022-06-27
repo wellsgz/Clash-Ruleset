@@ -1,30 +1,25 @@
 payload:
+# Cisco
   - DOMAIN-SUFFIX,cloudsso.cisco.com
+  - DOMAIN-SUFFIX,duosecurity.com
   - DOMAIN-SUFFIX,cisco.com
   - DOMAIN-SUFFIX,ciscoiwe.com
-  - DOMAIN-SUFFIX,cxhk.io
   - DOMAIN-SUFFIX,cisco.service-now.com
-  - DOMAIN-SUFFIX,csone.my.salesforce.com
-  - DOMAIN-SUFFIX,visual.force.com
-  - DOMAIN-SUFFIX,office365.com
-  - DOMAIN-SUFFIX,outlook.com
-  - DOMAIN-SUFFIX,azure.com
-  - DOMAIN-SUFFIX,microsoftonline.com
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,windows.net
-  - DOMAIN-SUFFIX,msauth.net
   - DOMAIN-SUFFIX,trickle.tetrationanalytics.com
-  - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,kb.tetr.at
   - DOMAIN-SUFFIX,concursolutions.com
-  - DOMAIN-SUFFIX,salesforce.com
+  - DOMAIN-SUFFIX,kb.tetr.at
+
+# Microsoft
+  - DOMAIN-SUFFIX,cisco.sharepoint.com
+
+# Salesforce
   - DOMAIN-SUFFIX,force.com
-  - DOMAIN-SUFFIX,duosecurity.com
-  - IP-CIDR,10.0.0.0/8,no-resolv
+  - DOMAIN-SUFFIX,salesforce.com
+
+# IP Address Range
+  - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,172.16.0.0/12,no-resolve
   - IP-CIDR,192.168.9.0/24,no-resolve
-  - IP-CIDR,192.168.128.0/17,no-resolve
   - IP-CIDR,12.5.186.0/23,no-resolve
   - IP-CIDR,12.19.88.0/21,no-resolve
   - IP-CIDR,12.159.148.0/22,no-resolve
@@ -107,3 +102,4 @@ payload:
   - IP-CIDR,204.69.198.0/23,no-resolve
   - IP-CIDR,204.69.200.0/24,no-resolve
   - IP-CIDR,216.128.32.0/19,no-resolve
+  - IP-CIDR,192.168.128.0/17,no-resolve
